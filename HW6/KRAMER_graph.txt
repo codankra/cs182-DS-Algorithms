@@ -1,0 +1,15 @@
+7
+C5
+C3
+C4
+C1
+C2
+CC
+BCC
+
+C2 C1
+BCC CC
+C1 C3
+C3 C5
+C3 C3
+C1 C5
